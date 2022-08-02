@@ -1,0 +1,16 @@
+.heading{
+    text-align:center;
+    align-items: center;
+    text-decoration: none;
+    /* text-indent: 3px; */
+
+
+}
+.heading ul li{
+    text-decoration: none;
+    list-style: none;
+
+}
+.heading p{
+    text-decoration: none;
+}
